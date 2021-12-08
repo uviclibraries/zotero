@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-act2
+title: 2-First Citations & Collections
 nav_order: 3
 parent: Workshop Activities
 ---
