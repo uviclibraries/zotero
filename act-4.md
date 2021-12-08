@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-act4
+title: 4-Installing & Using Plugins
 nav_order: 5
 parent: Workshop Activities
 ---
