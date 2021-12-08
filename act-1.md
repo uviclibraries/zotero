@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-act1
+title: 1-Word & Browser Connector
 nav_order: 2
 parent: Workshop Activities
 ---
