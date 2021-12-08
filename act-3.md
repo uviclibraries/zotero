@@ -1,3 +1,8 @@
-asdf
+---
+layout: default
+title: 3-act3
+nav_order: 4
+parent: Workshop Activities
+---
 
-[NEXT STEP: Adding the Word & Browser Connector (including Google Docs) to Zotero](act-4.html){: .btn .btn-blue }
+[NEXT STEP: Installing & Using Plugins in Zotero](act-4.html){: .btn .btn-blue }
