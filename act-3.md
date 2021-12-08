@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-act3
+title: 3-Citations & Bibliographies in Google Docs
 nav_order: 4
 parent: Workshop Activities
 ---
