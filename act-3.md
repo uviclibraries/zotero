@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 The methods for adding citations in Microsoft Word and Google Docs are similar. For this exercise we will be using Microsoft Word for illustration, but you are able to use the same menus/instructions in Google Docs as well if you would prefer to follow along using Docs.
 
-1.  The First Thing
+1.  **Adding Citations**
     -   Open Microsoft Word or Google Docs and Zotero
     -   Copy and paste the following sentence into a new Microsoft Word document (or Google Doc): “According to Jiří Kratochvíl’s research, Zotero made the fewest mistakes when importing references using the NLM style compared to other citation managers”
     -   To insert a citation to back up our claim, in Word, position your cursor before the period at the end of the sentence.
@@ -21,12 +21,14 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     -   I personally don’t like using this search box when using Zotero and find the “Classic” box to be more useful. To try out the classic viewer, follow the instructions above, but when you get to the Zotero search bar, click on the little grey arrow next to the Z and select “Classic View.”
     -   If you’d like to enable this permanently, you can do so in Zotero by going to “Preferences” -> Cite -> Word Processors -> check “Use classic Add Citation dialog”
     -   Congratulations! You have inserted your first citation. Now let’s create a Bibliography.
-2.  Creating a Bibliography using Zotero
+
+2.  **Creating a Bibliography using Zotero**
     -   In your Word document, navigate to the place you would like to insert your bibliography (or Works Cited, References, etc.). In Word, I usually go to “Insert → Page Break” in order to create a new section for my bibliography, but for this exercise, let’s simply hit return a couple of times after our final sentence from the previous example.
     -   To create a bibliography (or Works Cited, References, etc.) page, select the Zotero tab in your word processor and click “Add/Edit Bibliography.”
     -   After a few seconds (or sometimes more, depending on the size of your document), a bibliography will appear like this:
     -   Congratulations! You’ve created your first bibliography
-3.  Change the Citation Style of the Paper
+
+3.  **Change the Citation Style of the Paper**
     If you need to submit your paper to different journals, you may need to change your citation style to the house style or other standard style. Don’t worry, Zotero has thousands of styles to choose from and install.
     -   To change the citation style* of your paper, go to Microsoft Word (or Google Docs) and select the Zotero tab.
     -   Select “Document Preferences”. A new window will appear in which you can select your new citation style. Once you select your new style, click “OK.”
