@@ -34,7 +34,7 @@ If you have any questions or get stuck as you work through this, please ask your
     
     If you are using **Google Docs**, the browser connector will also add Zotero functionality to your documents.
 
-<img src="images/act-1/3-final.png" alt="preference menu" style="float:right;width:240px;">
+<img src="images/act-1/3-final.png" alt="preference menu" style="float:right;width:360px;">
 
 ## Adding the Word Plugin
 
