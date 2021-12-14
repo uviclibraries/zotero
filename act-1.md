@@ -40,10 +40,10 @@ If you have any questions or get stuck as you work through this, please ask your
 
 1.  In Zotero, go to the **Preferences** Menu (on a Mac: **Zotero -> Preferences**; on a PC: **Edit -> Preferences**).
 2.  Click on the tab that says “**Cite**”.
-
-    <img src="images/act-1/4-add-plugin.png" alt="add plugin" style="float:right;width:240px;">
-
 3.  Then, click the tab that says "**Word Processors**"
+
+    <img src="images/act-1/4-add-plugin.png" alt="add plugin" style="float:right;width:240px;margin-bottom:10px;">
+
 4.  Click the button the says “**Install Microsoft Word Plugin**”
 5.  **Restart WORD & Zotero**
 
