@@ -18,7 +18,7 @@ If you have any questions or get stuck as you work through this, please ask your
 1.  Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
 2.  If you are using Chrome, you will be directed to the Chrome Web Store. Add the plugin here.
     
-    <img src="images/act-1/2-plugin.png" alt="plugin" style="width:360px;">
+    <img src="images/act-1/2-plugin.png" alt="plugin" style="width:480px;">
     
     <img src="images/act-1/2-firefox.png" alt="firefox option" style="float:right;width:360px;">
     
