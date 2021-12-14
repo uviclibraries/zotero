@@ -26,7 +26,7 @@ If you have any questions or get stuck as you work through this, please ask your
     
     **Safari** is supported through BETA builds, so we will not be learning about this today (but it should be available soon!)
     
-    <img src="images/act-1/3-plugin.gif" alt="plugin" style="width:600px;">
+    <img src="images/act-1/3-plugin.gif" alt="plugin" style="width:480px;">
     
     Congratulations, you have now installed the browser plugin! You should now see something that looks like this in your browser toolbar:
     
@@ -47,10 +47,10 @@ If you have any questions or get stuck as you work through this, please ask your
 4.  Click the button the says “**Install Microsoft Word Plugin**”
 5.  **Restart WORD & Zotero**
 
-    <img src="images/act-1/4-add-plugin.gif" alt="add plugin" style="width:600px;">
+    <img src="images/act-1/4-add-plugin.gif" alt="add plugin" style="width:480px;">
 
     Congratulations! You should now have a Zotero tab in Microsoft Word that looks like this:
     
-    <img src="images/act-1/4-example.png" alt="final Zotero tab" style="width:600px;">
+    <img src="images/act-1/4-example.png" alt="final Zotero tab" style="width:720px;">
 
 [NEXT STEP: Adding Your First Citations & Collections to Zotero](act-2.html){: .btn .btn-blue }
