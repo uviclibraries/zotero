@@ -26,7 +26,7 @@ If you have any questions or get stuck as you work through this, please ask your
     
     **Safari** is supported through BETA builds, so we will not be learning about this today (but it should be available soon!)
     
-    <img src="images/act-1/3-plugin.gif" alt="plugin" style="width:480px;">
+    <img src="images/act-1/3-plugin.gif" alt="plugin" style="width:720px;">
     
     Congratulations, you have now installed the browser plugin! You should now see something that looks like this in your browser toolbar:
     
