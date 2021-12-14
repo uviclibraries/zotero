@@ -11,7 +11,7 @@ In this exercise you will:
 - Add the browser connector so you can automatically download source information from websites
 - Install the Word plugin so you can add citations to your papers
 
-<img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:180px;">
+<img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:240px;">
 
 If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
