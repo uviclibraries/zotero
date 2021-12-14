@@ -20,7 +20,7 @@ If you have any questions or get stuck as you work through this, please ask your
     
     <img src="images/act-1/2-plugin.png" alt="plugin" style="width:480px;">
     
-    <img src="images/act-1/2-firefox.png" alt="firefox option" style="float:right;width:360px;">
+    <img src="images/act-1/2-firefox.png" alt="firefox option" style="float:right;width:360px;margin-bottom:10px;">
     
     If you are using **Firefox** you will be asked to confirm installation. Please do so.
     
