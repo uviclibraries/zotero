@@ -11,18 +11,18 @@ In this exercise you will:
 - Add the browser connector so you can automatically download source information from websites
 - Install the Word plugin so you can add citations to your papers
 
-If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
-
 <img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:180px;">
+
+If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1.  Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
 2.  If you are using Chrome, you will be directed to the Chrome Web Store. Add the plugin here.
     
     <img src="images/act-1/2-plugin.png" alt="plugin" style="width:360px;">
     
-    If you are using **Firefox** you will be asked to confirm installation. Please do so.
+    <img src="images/act-1/2-firefox.png" alt="firefox option" style="float:right;width:360px;">
     
-    <img src="images/act-1/2-firefox.png" alt="firefox option" style="float:right;width:180px;">
+    If you are using **Firefox** you will be asked to confirm installation. Please do so.
     
     **Safari** is supported through BETA builds, so we will not be learning about this today (but it should be available soon!)
     
