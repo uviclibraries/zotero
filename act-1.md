@@ -30,7 +30,7 @@ If you have any questions or get stuck as you work through this, please ask your
     
     Congratulations, you have now installed the browser plugin! You should now see something that looks like this in your browser toolbar:
     
-    <img src="images/act-1/3-example.png" alt="toolbar" style="width:600px;">
+    <img src="images/act-1/3-example.png" alt="toolbar" style="width:720px;">
     
     If you are using **Google Docs**, the browser connector will also add Zotero functionality to your documents.
 
