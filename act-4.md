@@ -7,14 +7,13 @@ parent: Workshop Activities
 
 # Installing & Using Plugins in Zotero: Zotfile
 
-In this exercise, you will add your first plugin to Zotero.  Zotfile is a powerful tool that renames PDFs in a human readable format and allows you to make and extract annotations from PDFs in your Zotero library.  If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
-
 <img src="images/act-4/1-plugins.png" alt="" style="float:right;width:360px">
 
+In this exercise, you will add your first plugin to Zotero.  Zotfile is a powerful tool that renames PDFs in a human readable format and allows you to make and extract annotations from PDFs in your Zotero library.  If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
+
+<img src="images/act-4/1-zot.png" alt="" style="float:right;width:240px">
+
 1.  Navigate to the [Zotero Downloads](https://www.zotero.org/download/){:target="_blank"} page and scroll down to the section called “Plugins.” Select “Browse Plugins.”
-
-    <img src="images/act-4/1-zot.png" alt="" style="float:right;width:180px">
-
 2.  Scroll down and click the “Zotfile” [link.](http://zotfile.com/){:target="_blank"}
 3.  At the Zotfile page, click “Download,” which will download an .xpi file to your computer (if you’re using Firefox, please “right click” on “Download” and choose “save link as…” in order to save it to your computer).
 
