@@ -65,7 +65,7 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     
     -   Congratulations! You’ve created your first bibliography
 
-    <mark style="background-color:coral;"><b>Pro-Tip:</b> You may also create a bibliography by "highlighting" sources in Zotero from which you would like to create a bibliography. "Right click" on those sources and then select "Create Bibliography from Items". You may paste this bibliography directly into Word or Google Docs, but be aware that this bibliography is not linked to the citations in the paper. Try it now!</mark>
+    <mark style="background-color:orange;"><b>Pro-Tip:</b> You may also create a bibliography by "highlighting" sources in Zotero from which you would like to create a bibliography. "Right click" on those sources and then select "Create Bibliography from Items". You may paste this bibliography directly into Word or Google Docs, but be aware that this bibliography is not linked to the citations in the paper. Try it now!</mark>
 
     <img src="images/act-3/2-another-gif.gif" alt="" style="width:720px">
 
@@ -81,6 +81,6 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     <img src="images/act-3/3-preferences.gif" alt="" style="width:720px">
     
     -   Congrats! You are now ready to save massive amounts of time!
-    -   **NOTE:** Changing styles works seamlessly only if you are moving from one parenthetical style to another or one footnote style to another footnote style. If you need to switch from a parenthetical style to a footnote style, you will need to do some extra labour.
+    <mark style="background-color:orange;"><b>Note:</b> Changing styles works seamlessly only if you are moving from one parenthetical style to another or one footnote style to another footnote style. If you need to switch from a parenthetical style to a footnote style, you will need to do some extra labour.</mark>
 
 [NEXT STEP: Installing & Using Plugins in Zotero](act-4.html){: .btn .btn-blue }
