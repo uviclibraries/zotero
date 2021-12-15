@@ -43,7 +43,7 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     
     <img src="images/act-3/1-first-gif.gif" alt="" style="width:720px;">
     
-    <img src="images/act-3/1-preferences.png" alt="" style="float:right;width:180px;">
+    <img src="images/act-3/1-preferences.png" alt="" style="float:right;width:360px;">
     
     -   If you’d like to enable this permanently, you can do so in Zotero by going to “Preferences” -> Cite -> Word Processors -> check “Use classic Add Citation dialog”
     
