@@ -18,7 +18,8 @@ In this exercise, you will add your first plugin to Zotero.  Zotfile is a powerf
 3.  At the Zotfile page, click “Download,” which will download an .xpi file to your computer (if you’re using Firefox, please “right click” on “Download” and choose “save link as…” in order to save it to your computer).
 4.  Open Zotero and go to Tools -> Add-Ons
 
-    <img src="images/act-4/3-downloads.png" alt="" style="width:240px;margin-right:10px;"><img src="images/act-4/4-addons.png" alt="" style="width:360px;">
+    <img src="images/act-4/3-downloads.png" alt="" style="width:240px;margin-right:10px;">
+    <img src="images/act-4/4-addons.png" alt="" style="width:400px;">
 
 5.  In the add-on’s pane, choose the “gear” icon on the right-hand side of the screen and choose “Install Add-on from File…”
 6.  Navigate to the “zotfile-5.0.16-fx.xpi” file that we just downloaded to your computer and click “Install Now”
