@@ -39,9 +39,7 @@ In this exercise, you will add your first plugin to Zotero.  Zotfile is a powerf
 
 ## What Does Zotfile Do?
 
-```
-Take home: Zotfile renames your files into human-readable formats and allows you to extract and manage your annotations in PDFs. It also can organize your Zotero folder so your PDFs appear in human-readable folders on your computer.
-```
+<mark style="background-color:orange;"><b>Take home:</b> Zotfile renames your files into human-readable formats and allows you to extract and manage your annotations in PDFs. It also can organize your Zotero folder so your PDFs appear in human-readable folders on your computer.</mark>
 
 A lot of what Zotfile does for your research happens behind the scenes. For example, when you import a new PDF, it will automatically rename the PDF according to the “title” metadata tag embedded in the document. This means that a PDF that was named “0023453232.pdf” in the library’s database will be renamed to “huculak_WhyZoteroIsAwesome.pdf,” which makes it easier to find your research in a human-readable way. 
 
