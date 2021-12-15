@@ -23,7 +23,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
     
     <img src="images/act-2/3-manual-citation.png" alt="manual citation" style="width:720px;">
     
-    <img src="images/act-2/3-window.png" alt="window" style="float:right;width:240px;">
+    <img src="images/act-2/3-window.png" alt="window" style="float:right;width:200px;margin-bottom:10px;">
     
     -   With Zotero open, click on the “add citation” button and choose “journal article” as your document source.
     -   Once you choose the document source, a new “info” panel will open up on the right-hand side of your screen in which you can enter your source document information.
@@ -34,7 +34,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
 
 4.  **Create a Citation Using the “Add Item by Identifier” tool**
     
-    <img src="images/act-2/4-add-identifier.png" alt="add identifier" style="float:right;width:360px;">
+    <img src="images/act-2/4-add-identifier.png" alt="add identifier" style="width:720px;">
     
     -   Click on the “add item by identifier” icon
     -   A new box will appear. Enter the DOI address from the citation we just made: https://doi.org/10.1016/j.acalib.2016.09.001
@@ -47,7 +47,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
     
     <img src="images/act-2/5-icon.png" alt="browser connector" style="width:720px;">
     
-    <img src="images/act-2/5-library.png" alt="save to library" style="float:right;width:360px;">
+    <img src="images/act-2/5-library.png" alt="save to library" style="float:right;width:360px;margin-left:10px;">
     
     -   With Zotero open in the background and your browser as your main window, click on the Zotero Browser Connector icon in your browser.
     -   A new window will appear indicating that Zotero is importing the citation ***and*** PDF directly into your library.
