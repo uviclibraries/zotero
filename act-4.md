@@ -84,7 +84,7 @@ Note: When you “extract annotations”, it is a one-time crawl of your documen
 
 1.  Right click on the PDF in the citation and select Manage Attachments → “Rename Attachments.”
 
-    <img src="images/act-4/againagain1-rename.png" alt="" style="width:720px">
+    <img src="images/act-4/againagain1-rename.gif" alt="" style="width:720px">
 
 ## Other Useful Plugins
 
