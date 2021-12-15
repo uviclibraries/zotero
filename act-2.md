@@ -10,10 +10,10 @@ parent: Workshop Activities
 In this exercise, you will add your first citations to Zotero.  If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1.  Make sure Zotero (the application you downloaded and installed) is open and running
-
-    <img src="images/act-2/1-add-citation.png" alt="menu" style="float:right;width:240px;">
-
 2.  Before you make your first citation, let’s make sure that you’re prepared... **Begin with this in mind**:
+    
+    <img src="images/act-2/1-add-citation.png" alt="menu" style="float:right;width:240px;">
+    
     -   A citation is only as good as its initial input. Make sure to verify all the information when you import a citation from the web or by hand.
     -   You can import citations directly into “collections” (or folders) on the left-hand panel by highlighting that folder or collection before you import.
     
