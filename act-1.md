@@ -38,17 +38,17 @@ If you have any questions or get stuck as you work through this, please ask your
 
 1.  In Zotero, go to the **Preferences** Menu (on a Mac: **Zotero -> Preferences**; on a PC: **Edit -> Preferences**).
 
-    <img src="images/act-1/3-final.png" alt="preference menu" style="width:600px;">
+    <img src="images/act-1/3-final.png" alt="preference menu" style="width:720px;">
 
 2.  Click on the tab that says “**Cite**”.
 3.  Then, click the tab that says "**Word Processors**"
 4.  Click the button the says “**Install Microsoft Word Add-in**” (or "Install Microsoft Word Plugin")
 
-    <img src="images/act-1/4-add-plugin.png" alt="add plugin" style="width:600px;">
+    <img src="images/act-1/4-add-plugin.png" alt="add plugin" style="width:720px;">
 
 5.  **Restart WORD & Zotero**
 
-    <img src="images/act-1/4-add-plugin.gif" alt="add plugin" style="width:600px;">
+    <img src="images/act-1/4-add-plugin.gif" alt="add plugin" style="width:720px;">
 
     Congratulations! You should now have a Zotero tab in Microsoft Word that looks like this:
     
