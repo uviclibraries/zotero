@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 In this exercise, you will add your first plugin to Zotero.  Zotfile is a powerful tool that renames PDFs in a human readable format and allows you to make and extract annotations from PDFs in your Zotero library.  If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
-<img src="images/act-4/1-plugins.png" alt="" style="float:right;width:180px">
+<img src="images/act-4/1-plugins.png" alt="" style="float:right;width:360px">
 
 1.  Navigate to the [Zotero Downloads](https://www.zotero.org/download/){:target="_blank"} page and scroll down to the section called “Plugins.” Select “Browse Plugins.”
 
