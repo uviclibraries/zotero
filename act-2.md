@@ -23,7 +23,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
     
     <img src="images/act-2/3-manual-citation.png" alt="manual citation" style="width:720px;">
     
-    <img src="images/act-2/3-window.png" alt="window" style="float:right;width:200px;margin-bottom:10px;">
+    <img src="images/act-2/3-window.png" alt="window" style="float:right;width:200px;margin-left:10px;margin-bottom:10px;">
     
     -   With Zotero open, click on the “add citation” button and choose “journal article” as your document source.
     -   Once you choose the document source, a new “info” panel will open up on the right-hand side of your screen in which you can enter your source document information.
