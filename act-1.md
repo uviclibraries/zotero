@@ -38,7 +38,7 @@ If you have any questions or get stuck as you work through this, please ask your
 
 1.  In Zotero, go to the **Preferences** Menu (on a Mac: **Zotero -> Preferences**; on a PC: **Edit -> Preferences**).
 
-    <img src="images/act-1/3-final.png" alt="preference menu" style="float:right;width:600px;">
+    <img src="images/act-1/3-final.png" alt="preference menu" style="width:600px;">
 
 2.  Click on the tab that says “**Cite**”.
 3.  Then, click the tab that says "**Word Processors**"
