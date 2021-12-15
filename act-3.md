@@ -74,11 +74,11 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     -   To change the citation style* of your paper, go to Microsoft Word (or Google Docs) and select the Zotero tab.
     -   Select “Document Preferences”. A new window will appear in which you can select your new citation style. Once you select your new style, click “OK.”
     
-        <img src="images/act-3/3-preferences.png" alt="" style="width:720px">
+    <img src="images/act-3/3-preferences.png" alt="" style="width:720px">
     
     -   Verify that your document has changed styles.
     
-        <img src="images/act-3/3-preferences.gif" alt="" style="width:720px">
+    <img src="images/act-3/3-preferences.gif" alt="" style="width:720px">
     
     -   Congrats! You are now ready to save massive amounts of time!
     -   **NOTE:** Changing styles works seamlessly only if you are moving from one parenthetical style to another or one footnote style to another footnote style. If you need to switch from a parenthetical style to a footnote style, you will need to do some extra labour.
