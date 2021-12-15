@@ -65,7 +65,7 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     
     -   Congratulations! You’ve created your first bibliography
 
-    <mark style="color:coral;">**Pro-Tip:** You may also create a bibliography by "highlighting" sources in Zotero from which you would like to create a bibliography. "Right click" on those sources and then select "Create Bibliography from Items". You may paste this bibliography directly into Word or Google Docs, but be aware that this bibliography is not linked to the citations in the paper. Try it now!</mark>
+    <mark style="color:coral;"><b>Pro-Tip:</b> You may also create a bibliography by "highlighting" sources in Zotero from which you would like to create a bibliography. "Right click" on those sources and then select "Create Bibliography from Items". You may paste this bibliography directly into Word or Google Docs, but be aware that this bibliography is not linked to the citations in the paper. Try it now!</mark>
 
 3.  **Change the Citation Style of the Paper**
     If you need to submit your paper to different journals, you may need to change your citation style to the house style or other standard style. Don’t worry, Zotero has thousands of styles to choose from and install.
