@@ -67,12 +67,20 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
 
     <mark style="background-color:coral;"><b>Pro-Tip:</b> You may also create a bibliography by "highlighting" sources in Zotero from which you would like to create a bibliography. "Right click" on those sources and then select "Create Bibliography from Items". You may paste this bibliography directly into Word or Google Docs, but be aware that this bibliography is not linked to the citations in the paper. Try it now!</mark>
 
+    <img src="images/act-3/2-another-gif.gif" alt="" style="width:720px">
+
 3.  **Change the Citation Style of the Paper**
     If you need to submit your paper to different journals, you may need to change your citation style to the house style or other standard style. Don’t worry, Zotero has thousands of styles to choose from and install.
     -   To change the citation style* of your paper, go to Microsoft Word (or Google Docs) and select the Zotero tab.
     -   Select “Document Preferences”. A new window will appear in which you can select your new citation style. Once you select your new style, click “OK.”
+    
+        <img src="images/act-3/3-preferences.png" alt="" style="width:720px">
+    
     -   Verify that your document has changed styles.
+    
+        <img src="images/act-3/3-preferences.gif" alt="" style="width:720px">
+    
     -   Congrats! You are now ready to save massive amounts of time!
-    -   NOTE: Changing styles works seamlessly only if you are moving from one parenthetical style to another or one footnote style to another footnote style. If you need to switch from a parenthetical style to a footnote style, you will need to do some extra labour.
+    -   **NOTE:** Changing styles works seamlessly only if you are moving from one parenthetical style to another or one footnote style to another footnote style. If you need to switch from a parenthetical style to a footnote style, you will need to do some extra labour.
 
 [NEXT STEP: Installing & Using Plugins in Zotero](act-4.html){: .btn .btn-blue }
