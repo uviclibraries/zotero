@@ -72,7 +72,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
     -   Navigate to “Add Attachment” and then “Attach Stored Copy of File” (Note: if you attach a “stored copy” of a file in Zotero, it will be available to you offline).
     -   Choose a random document from your desktop to attach to the citation. Zotero will create a copy and store it in its database.
     
-    <mark style="color:red;">NOTE: this is the same procedure you will use to attach a PDF of an article if the automatic download function does not work.</mark>
+    <mark style="color:red;"><b>NOTE:</b> this is the same procedure you will use to attach a PDF of an article if the automatic download function does not work.</mark>
     
     <img src="images/act-2/7-attach.gif" alt="attach something" style="width:720px;">
     
