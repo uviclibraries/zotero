@@ -25,13 +25,13 @@ In this exercise, you will add your first plugin to Zotero.  Zotfile is a powerf
 
     <img src="images/act-4/4-addons.png" alt="" style="width:720px;margin-bottom:10px;">
     
-    <img src="images/act-4/6-install.png" alt="" style="float:right;width:180px">
+    <img src="images/act-4/6-install.png" alt="" style="float:right;width:360px">
 
 7.  Once the Plug-in is installed, you will need to click the “restart now” link in the Add-On menu:
 
     <img src="images/act-4/7-restart.png" alt="" style="width:720px">
     
-    <img src="images/act-4/8-install.png" alt="" style="width:720px">
+    <img src="images/act-4/8-install.gif" alt="" style="width:720px">
 
 8.  Congratulations, you’ve now installed Zotfile!
 
