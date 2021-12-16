@@ -55,30 +55,30 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     -   In your Word document, navigate to the place you would like to insert your bibliography (or Works Cited, References, etc.). In Word, I usually go to “Insert → Page Break” in order to create a new section for my bibliography, but for this exercise, let’s simply hit return a couple of times after our final sentence from the previous example.
     -   To create a bibliography (or Works Cited, References, etc.) page, select the Zotero tab in your word processor and click “Add/Edit Bibliography.”
     
-    <img src="images/act-3/2-bibliography.png" alt="" style="width:720px;">
+    <img src="images/act-3/2-bibliography.png" alt="add or edit bibliography" style="width:720px;">
     
     -   After a few seconds (or sometimes more, depending on the size of your document), a bibliography will appear like this:
     
-    <img src="images/act-3/2-first-bibliography.png" alt="" style="width:720px;">
+    <img src="images/act-3/2-first-bibliography.png" alt="example bibliography" style="width:720px;">
     
-    <img src="images/act-3/2-bibliography.gif" alt="" style="width:720px;">
+    <img src="images/act-3/2-bibliography.gif" alt="add or edit bibliography animated" style="width:720px;">
     
     -   Congratulations! You’ve created your first bibliography
 
     <mark style="background-color:orange;"><b>Pro-Tip:</b> You may also create a bibliography by "highlighting" sources in Zotero from which you would like to create a bibliography. "Right click" on those sources and then select "Create Bibliography from Items". You may paste this bibliography directly into Word or Google Docs, but be aware that this bibliography is not linked to the citations in the paper. Try it now!</mark>
 
-    <img src="images/act-3/2-another-gif.gif" alt="" style="width:720px">
+    <img src="images/act-3/2-another-gif.gif" alt="bibliography through highlighting" style="width:720px">
 
 3.  **Change the Citation Style of the Paper**
     If you need to submit your paper to different journals, you may need to change your citation style to the house style or other standard style. Don’t worry, Zotero has thousands of styles to choose from and install.
     -   To change the citation style* of your paper, go to Microsoft Word (or Google Docs) and select the Zotero tab.
     -   Select “Document Preferences”. A new window will appear in which you can select your new citation style. Once you select your new style, click “OK.”
     
-    <img src="images/act-3/3-preferences.png" alt="" style="width:720px">
+    <img src="images/act-3/3-preferences.png" alt="document preferences" style="width:720px">
     
     -   Verify that your document has changed styles.
     
-    <img src="images/act-3/3-preferences.gif" alt="" style="width:720px">
+    <img src="images/act-3/3-preferences.gif" alt="document preferences animated" style="width:720px">
     
     -   Congrats! You are now ready to save massive amounts of time!
     <mark style="background-color:orange;"><b>Note:</b> Changing styles works seamlessly only if you are moving from one parenthetical style to another or one footnote style to another footnote style. If you need to switch from a parenthetical style to a footnote style, you will need to do some extra labour.</mark>
