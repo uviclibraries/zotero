@@ -16,7 +16,7 @@ In this exercise you will:
 If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1.  Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
-2.  If you are using Chrome, you will be directed to the Chrome Web Store. Add the plugin here.
+2.  If you are using **Chrome**, you will be directed to the Chrome Web Store. Add the plugin here.
     
     <img src="images/act-1/2-plugin.png" alt="zotero in app store" style="width:720px;">
     
@@ -28,7 +28,7 @@ If you have any questions or get stuck as you work through this, please ask your
     
     <img src="images/act-1/3-plugin.gif" alt="add plugin" style="width:720px;">
     
-    Congratulations, you have now installed the browser plugin! You should now see something that looks like this in your browser toolbar:
+    **Congratulations**, you have now installed the browser plugin! You should now see something that looks like this in your browser toolbar:
     
     <img src="images/act-1/3-example.png" alt="toolbar" style="width:720px;">
     
@@ -50,7 +50,7 @@ If you have any questions or get stuck as you work through this, please ask your
 
 5.  **Restart WORD & Zotero**
 
-    Congratulations! You should now have a Zotero tab in Microsoft Word that looks like this:
+    **Congratulations!** You should now have a Zotero tab in Microsoft Word that looks like this:
     
     <img src="images/act-1/4-example.png" alt="final Zotero tab" style="width:720px;">
 
