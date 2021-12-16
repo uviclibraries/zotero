@@ -18,7 +18,7 @@ If you have any questions or get stuck as you work through this, please ask your
 1.  Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
 2.  If you are using Chrome, you will be directed to the Chrome Web Store. Add the plugin here.
     
-    <img src="images/act-1/2-plugin.png" alt="plugin" style="width:720px;">
+    <img src="images/act-1/2-plugin.png" alt="zotero in app store" style="width:720px;">
     
     <img src="images/act-1/2-firefox.png" alt="firefox option" style="float:right;width:360px;margin-bottom:10px;">
     
@@ -26,7 +26,7 @@ If you have any questions or get stuck as you work through this, please ask your
     
     **Safari** is supported through BETA builds, so we will not be learning about this today (but it should be available soon!)
     
-    <img src="images/act-1/3-plugin.gif" alt="plugin" style="width:720px;">
+    <img src="images/act-1/3-plugin.gif" alt="add plugin" style="width:720px;">
     
     Congratulations, you have now installed the browser plugin! You should now see something that looks like this in your browser toolbar:
     
@@ -44,11 +44,11 @@ If you have any questions or get stuck as you work through this, please ask your
 3.  Then, click the tab that says "**Word Processors**"
 4.  Click the button the says “**Install Microsoft Word Add-in**” (or "Install Microsoft Word Plugin")
 
-    <img src="images/act-1/4-add-plugin.png" alt="add plugin" style="width:720px;">
+    <img src="images/act-1/4-add-plugin.png" alt="install add-in" style="width:720px;">
+    
+    <img src="images/act-1/4-add-plugin.gif" alt="add plugin" style="width:720px;">
 
 5.  **Restart WORD & Zotero**
-
-    <img src="images/act-1/4-add-plugin.gif" alt="add plugin" style="width:720px;">
 
     Congratulations! You should now have a Zotero tab in Microsoft Word that looks like this:
     
