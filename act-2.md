@@ -33,10 +33,10 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
     <img src="images/act-2/3-a-gif.gif" alt="a gif" style="width:720px;">
 
 4.  **Create a Citation Using the “Add Item by Identifier” tool**
+    -   Click on the “add item by identifier” icon
     
     <img src="images/act-2/4-add-identifier.png" alt="add identifier" style="width:720px;">
     
-    -   Click on the “add item by identifier” icon
     -   A new box will appear. Enter the DOI address from the citation we just made: https://doi.org/10.1016/j.acalib.2016.09.001
     -   After a few seconds, a new citation should appear in your Zotero citation list. Look at the “info” pane from this citation and compare it to the one you just entered by hand. Note the diacritical marks in the author’s first name between the two entries.
 
