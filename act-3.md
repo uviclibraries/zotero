@@ -81,6 +81,7 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     <img src="images/act-3/3-preferences.gif" alt="document preferences animated" style="width:720px">
     
     -   Congrats! You are now ready to save massive amounts of time!
+    
     <mark style="background-color:orange;"><b>Note:</b> Changing styles works seamlessly only if you are moving from one parenthetical style to another or one footnote style to another footnote style. If you need to switch from a parenthetical style to a footnote style, you will need to do some extra labour.</mark>
 
 [NEXT STEP: Installing & Using Plugins in Zotero](act-4.html){: .btn .btn-blue }
