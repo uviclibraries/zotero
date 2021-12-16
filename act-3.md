@@ -15,39 +15,39 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     -   To insert a citation to back up our claim, in Word, position your cursor before the period at the end of the sentence.
     -   Locate the “Zotero” menu tab, click it, and select “Add/Edit Citation” (if you do not see a Zotero tab, please close and restart Word. If you still can’t see it, please let your instructor know).
     
-    <img src="images/act-3/1-add-citation.png" alt="add" style="width:720px;">
+    <img src="images/act-3/1-add-citation.png" alt="add citation in word" style="width:720px;">
     
     -   Since this is the first time you’re using Zotero, a new window will appear asking you to choose a citation style. Choose the American Psychological Association 7th Edition style and click “OK.” A new Zotero window will appear in which you can start typing the author’s name or the title of the article.
     
-    <img src="images/act-3/1-add-citation.gif" alt="asdf" style="width:720px;">
+    <img src="images/act-3/1-add-citation.gif" alt="choose citation style" style="width:720px;">
     
     -   Type the word “zotero” into the window. This will bring up all the articles with Zotero as part of their metadata.
     
-    <img src="images/act-3/1-zotero-window.png" alt="" style="width:720px;">
+    <img src="images/act-3/1-zotero-window.png" alt="search bar" style="width:720px;">
     
     -   In the dropdown menu the appears, select the article we downloaded by clicking the title.
     
-    <img src="images/act-3/1-select-article.png" alt="" style="width:720px;">
+    <img src="images/act-3/1-select-article.png" alt="dropdown menu" style="width:720px;">
     
     -   When you have selected the article, the Zotero window will look like this:
 
-    <img src="images/act-3/1-updated-window.png" alt="" style="width:720px;">
+    <img src="images/act-3/1-updated-window.png" alt="updated search bar" style="width:720px;">
 
     -   Hit “Enter” (or return) on your keyboard to actually insert the citation into your Word document. Your Word document should now have a citation embedded in it that looks like this:
     
-    <img src="images/act-3/1-embedded-citation.png" alt="" style="width:720px;">
+    <img src="images/act-3/1-embedded-citation.png" alt="auto inserted citation" style="width:720px;">
     
     -   I personally don’t like using this search box when using Zotero and find the “Classic” box to be more useful. To try out the classic viewer, follow the instructions above, but when you get to the Zotero search bar, click on the little grey arrow next to the Z and select “Classic View.”
     
-    <img src="images/act-3/1-zoterowindowAGAIN.png" alt="" style="width:720px;">
+    <img src="images/act-3/1-zoterowindowAGAIN.png" alt="classic view" style="width:720px;">
     
-    <img src="images/act-3/1-first-gif.gif" alt="" style="width:720px;">
+    <img src="images/act-3/1-first-gif.gif" alt="classic view animated" style="width:720px;">
     
-    <img src="images/act-3/1-preferences.png" alt="" style="float:right;width:480px;margin-bottom:10px;">
+    <img src="images/act-3/1-preferences.png" alt="zotero preferences" style="float:right;width:360px;margin-left:10px;margin-bottom:10px;">
     
     -   If you’d like to enable this permanently, you can do so in Zotero by going to “Preferences” -> Cite -> Word Processors -> check “Use classic Add Citation dialog”
     
-    <img src="images/act-3/1-preferences.gif" alt="" style="width:720px;">
+    <img src="images/act-3/1-preferences.gif" alt="editing preferences animated" style="width:720px;">
     
     -   Congratulations! You have inserted your first citation. Now let’s create a Bibliography.
 
