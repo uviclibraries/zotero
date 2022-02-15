@@ -25,7 +25,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
     
     <img src="images/act-2/3-window.png" alt="info tab" style="float:right;width:200px;margin-left:10px;margin-bottom:10px;">
     
-    -   With Zotero open, click on the “**New Item**” button <img src="images/bonus.PNG" alt="new item button"> and choose “**journal article**” as your document source.
+    -   With Zotero open, click on the “**add citation**” button <img src="images/bonus.PNG" alt="new item button"> and choose “**journal article**” as your document source.
     -   Once you choose the document source, a new “**info**” panel will open up on the right-hand side of your screen in which you can enter your source document information.
     -   Navigate to [this link](https://www-sciencedirect-com.ezproxy.library.uvic.ca/science/article/pii/S0099133316302294?via%3Dihub){:target="_blank"} (UVIC Students) or [this link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Comparison+of+the+Accuracy+of+Bibliographical+References+Generated+for+Medical+Citation+Styles+by+EndNote%2C+Mendeley%2C+RefWorks+and+Zotero&btnG=){:target="_blank"} (non-UVic Students) to view an article on citation management. Copy and paste the relevant information from this article into the “**info**” pane in Zotero. If there is a DOI associated with an article, it is always a good idea to include it with your citation.
     -   Once you are finished you can click out of the info pane and the citation should now be in your library.
