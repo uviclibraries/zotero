@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-# Adding Browser and Word Connectors
+# Adding Browser and Word Connectors 
 
 <img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:240px;">
 
