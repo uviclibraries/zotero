@@ -11,7 +11,7 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
 
 1.  **Adding Citations**
     -   Open Microsoft Word or Google Docs and Zotero
-    -   Copy and paste the following sentence into a new Microsoft Word document (or Google Doc): “According to Jiří Kratochvíl’s research, Zotero made the fewest mistakes when importing references using the NLM style compared to other citation managers”
+    -   Copy and paste the following sentence into a new Microsoft Word document (or Google Doc): **“According to Jiří Kratochvíl’s research, Zotero made the fewest mistakes when importing references using the NLM style compared to other citation managers.”**
     -   To insert a citation to back up our claim, in Word, position your cursor before the period at the end of the sentence.
     -   Locate the “**Zotero**” menu tab, click it, and select “**Add/Edit Citation**” (if you do not see a Zotero tab, please close and restart Word. If you still can’t see it, please let your instructor know).
     
