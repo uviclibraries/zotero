@@ -3,6 +3,7 @@ layout: default
 title: 4-Installing & Using Plugins
 nav_order: 5
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Installing & Using Plugins in Zotero: Zotfile
@@ -31,7 +32,11 @@ In this exercise, you will add your first plugin to Zotero.  Zotfile is a powerf
 
     <img src="images/act-4/7-restart.png" alt="restart" style="width:720px;">
     
-    <img src="images/act-4/8-install.gif" alt="install add ons animated" style="width:720px;">
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+<img src="images/act-4/8-install.gif" alt="install add ons animated" style="width:720px;">
+</div>
+   
 
 8.  **Congratulations**, you’ve now installed Zotfile!
 
@@ -56,8 +61,13 @@ Note: in order to use this functionality, you must have “**attached**” or �
 4.  Let’s highlight a sentence in the PDF using the “**highlighter**” function in our PDF viewer. In Preview, it looks like this:
 
     <img src="images/act-4/again4-highlight.png" alt="highlighter function" style="width:720px">
+
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+<img src="images/act-4/again4-highlighting.gif" alt="highlighter function animated" style="width:720px">
+</div>
     
-    <img src="images/act-4/again4-highlighting.gif" alt="highlighter function animated" style="width:720px">
+    
 
 5.  Now “**Save**” your PDF by going to **File -> Save**
 6.  Normally, your PDF should just save, but sometimes, when you’re on a PC, a Save Dialogue back comes up. Simply choose the exact same folder your file is in and hit save and “**replace**” should this dialogue box appear.
@@ -70,7 +80,11 @@ Note: in order to use this functionality, you must have “**attached**” or �
 
     <img src="images/act-4/again9-aiya.png" alt="extracted annotations" style="width:720px">
     
-    <img src="images/act-4/again9-gif.gif" alt="extracted annotations animated" style="width:720px">
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+<img src="images/act-4/again9-gif.gif" alt="extracted annotations animated" style="width:720px">
+</div>
+
 
 10.  **Congratulations!** You’ve extracted your first annotations! 
 
@@ -80,7 +94,11 @@ Note: in order to use this functionality, you must have “**attached**” or �
 
 1.  Right click on the PDF in the citation and select **Manage Attachments -> Rename Attachments**
 
-    <img src="images/act-4/againagain1-rename.gif" alt="rename attachment" style="width:720px">
+<button onclick="toggle('gif4')">Show / Hide Animation </button>
+<div id="gif4">
+<img src="images/act-4/againagain1-rename.gif" alt="rename attachment" style="width:720px">
+</div>
+    
 
 ## Other Useful Plugins
 
@@ -90,5 +108,18 @@ Zotero has a slew of useful plugins for your use available [for download.](https
 -   A DOI manager
 -   A folder Import function if you are importing files from your computer
 -   Zotero OCR: An OCR engine to create machine-readable PDFs. (we learn about this tool in the “Advanced” Zotero workshop).
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
