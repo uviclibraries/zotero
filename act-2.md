@@ -55,7 +55,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
   
 
 5.  **Create a Citation by Using the Browser Connector (from Activity 1)**
-    -   Let’s go back to the libraries’ webpage for the [article on citation management software](https://www-sciencedirect-com.ezproxy.library.uvic.ca/science/article/pii/S0099133316302294?via%3Dihub){:target="_blank"} on Summon at UVIC Libraries  (non-UVic students, [click here](https://www.sciencedirect.com/science/article/abs/pii/S0099133316302294){:target="_blank"}).
+    -   Let’s go back to the libraries’ webpage for the [article on citation management software](https://www-sciencedirect-com.ezproxy.library.uvic.ca/science/article/pii/S0099133316302294?via%3Dihub){:target="_blank"} library search at UVIC Libraries  (non-UVic students, [click here](https://www.sciencedirect.com/science/article/abs/pii/S0099133316302294){:target="_blank"}).
     
     <img src="images/act-2/5-icon.png" alt="browser connector" style="width:720px;">
     
