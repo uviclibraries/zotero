@@ -88,7 +88,7 @@ In this exercise, you will add your first citations to Zotero.  If you have any 
 
 7.  **Attach a File to a Citation in Zotero.**
     -   When you see a little grey triangle next to the title of a citation, it means that there are other associated files with your citation. These can include PDF files, snapshots of a webpage, notes, or any other file you decide to “attach” to your citation.
-    -   “Right click” on the main citation title to rev**e**al a submenu.
+    -   “Right click” on the main citation title to reveal a submenu.
     
     <img src="images/act-2/7-attach-file.png" alt="attach file" style="width:720px;">
     
