@@ -74,8 +74,8 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     
     <img src="images/act-3/2-first-bibliography.png" alt="example bibliography" style="width:720px;">
     
-    <button onclick="toggle('gif3')">Show / Hide Animation </button>
-    <div id="gif3">
+    <button onclick="toggle('gif4')">Show / Hide Animation </button>
+    <div id="gif4">
     <img src="images/act-3/2-bibliography.gif" alt="add or edit bibliography animated" style="width:720px;">
     </div>
 
@@ -84,8 +84,8 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
 
     <mark style="background-color:orange;"><b>Pro-Tip:</b> You may also create a bibliography by "highlighting" sources in Zotero from which you would like to create a bibliography. "Right click" on those sources and then select "Create Bibliography from Items". You may paste this bibliography directly into Word or Google Docs, but be aware that this bibliography is not linked to the citations in the paper. Try it now!</mark>
 
-    <button onclick="toggle('gif4')">Show / Hide Animation </button>
-    <div id="gif4">
+    <button onclick="toggle('gif5')">Show / Hide Animation </button>
+    <div id="gif5">
     <img src="images/act-3/2-another-gif.gif" alt="bibliography through highlighting" style="width:720px">
     </div>
 
@@ -100,8 +100,8 @@ The methods for adding citations in Microsoft Word and Google Docs are similar. 
     
     -   Verify that your document has changed styles.
     
-    <button onclick="toggle('gif5')">Show / Hide Animation </button>
-    <div id="gif5">
+    <button onclick="toggle('gif6')">Show / Hide Animation </button>
+    <div id="gif6">
     <img src="images/act-3/3-preferences.gif" alt="document preferences animated" style="width:720px">
     </div>
     
