@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 1-Word & Browser Connector
+title: 1-Install Zotero & Browser Connector
 nav_order: 2
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Adding Browser and Word Connectors
+# Install Zotero, Browser & Word Connectors
 
 <img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:240px;">
 
@@ -24,7 +24,7 @@ Before you begin please **Remember**:
 - In order to easily insert citations and create bibliographies, double-check the the **Word or Google Docs Add-in** has been installed
 
 
-1.Downloading Zotero:
+1. Downloading Zotero:
    - Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
 3.  If you are using **Chrome**, you will be directed to the Chrome Web Store. Add the plugin here.
     
