@@ -7,17 +7,15 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Install Zotero, Browser & Word Connectors
-
 <img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:240px;">
-
 In this exercise, you will download & install the Zotero app from Zotero.org, the Zotero Browser Connector, and the Microsoft Word/LibreOffice Add-in.
-
-If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 Before you begin please **Remember**:
 - **Zotero** is a program that resides on your computer that may or may not sync to the web depending on your preferences
 - In order to capture sources from the web with the click of a button, you must install a **browser connector**
 - In order to easily insert citations and create bibliographies, double-check the the **Word or Google Docs Add-in** has been installed
+
+If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 ## Install Zotero App
 1. Downloading Zotero:
