@@ -30,7 +30,7 @@ If you have any questions or get stuck as you work through this, please ask your
 1.  When you open Zotero for the first time, you will be welcomed by the start screen. It may even prompt you to install the “Browser Connector” automatically. If so, follow the prompts to install the connector. If not, follow these directions:
 2.  Navigate to the Zotero downloads page and find the Connector box [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
 3.  Click on the Install Firefox/Chrome/Safari Connector button.
-<img src="images/zotero-connector.png" alt="zotero connector button" style="width:800px;">
+<img src="images/act-1/zotero-connector.png" alt="zotero connector button" style="width:800px;">
    - If you are using Firefox, you will be prompted to install the Connector through the URL pane. Click **Continue to Installation**
     <img src="images/act-1/2-firefox.png" alt="firefox option" style="float:right;width:360px;margin-bottom:10px;">
    - **Safari** is supported through BETA builds, so we will not be learning about this today (but it should be available soon!)
@@ -39,12 +39,9 @@ If you have any questions or get stuck as you work through this, please ask your
 <div id="gif1">
       <img src="images/act-1/3-plugin.gif" alt="add plugin" style="width:720px;">
       </div>
-      
 **Congratulations**, you have now installed the browser plugin! You should now see something that looks like this in your browser toolbar:
-    
-<img src="images/act-1/3-example.png" alt="toolbar" style="width:720px;">
-    
-    If you are using **Google Docs**, the browser connector will also add Zotero functionality to your documents.
+<img src="images/act-1/3-example.png" alt="toolbar" style="width:800px;">
+If you are using **Google Docs**, the browser connector will also add Zotero functionality to your documents.
 
 ## Double-check the Zotero Word and Google Docs Plugins
 
