@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Why Zotero? 
 
-# **BETTER INTRO HERE**
+This workshop introduces Zotero, a powerful and free tool that will save you time, and make the citation a bibliography creation process less painful.  Zotero helps you quikly and easily collect, organize, cite, and share your research.  Learn how to build a personal library of sources from websites, databases, and PDFs, and then automatically generate bibliographies and citations in various styles for your papers.  By automating these tedious tasks, Zotero saves you valuable time and frees up time so you can focus on the more impactful and interesting aspects of your research.
 
 ## Learning objectives
 
