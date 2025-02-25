@@ -14,7 +14,7 @@ In this exercise, you will:
 
 1. Download & install the Zotero app from Zotero.org
 2. Download & install the Zotero Browser Connector
-3. Download & install the Microsoft Word/LibreOffice Add-i
+3. Download & install the Microsoft Word/LibreOffice Add-in
 
 If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
@@ -26,6 +26,10 @@ Before you begin please **Remember**:
 
 1. Downloading Zotero:
    - Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
+   - Click **Download** under “Zotero for Mac/Windows”
+   - Save the file to your disk
+   - Double-click on the Zotero  file you just downloaded and follow the installation instructions
+   - Congratulations! You’ve downloaded and installed Zotero on  your computer! 
 3.  If you are using **Chrome**, you will be directed to the Chrome Web Store. Add the plugin here.
     
     <img src="images/act-1/2-plugin.png" alt="zotero in app store" style="width:720px;">
