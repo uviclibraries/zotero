@@ -23,14 +23,16 @@ Before you begin please **Remember**:
 - In order to capture sources from the web with the click of a button, you must install a **browser connector**
 - In order to easily insert citations and create bibliographies, double-check the the **Word or Google Docs Add-in** has been installed
 
-
+## Install Zotero App
 1. Downloading Zotero:
    - Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
    - Click **Download** under “Zotero for Mac/Windows”
    - Save the file to your disk
    - Double-click on the Zotero  file you just downloaded and follow the installation instructions
-   - Congratulations! You’ve downloaded and installed Zotero on  your computer! 
-3.  If you are using **Chrome**, you will be directed to the Chrome Web Store. Add the plugin here.
+   - Congratulations! You’ve downloaded and installed Zotero on  your computer!
+  
+## Install Zotero Browser Connector
+1.  If you are using **Chrome**, you will be directed to the Chrome Web Store. Add the plugin here.
     
     <img src="images/act-1/2-plugin.png" alt="zotero in app store" style="width:720px;">
     
@@ -51,7 +53,7 @@ Before you begin please **Remember**:
     
     If you are using **Google Docs**, the browser connector will also add Zotero functionality to your documents.
 
-## Adding the Word Plugin
+## Double-check the Zotero Word and Google Docs Plugins
 
 1.  In Zotero, go to the **Preferences** Menu (on a Mac: **Zotero -> Preferences**; on a PC: **Edit -> Preferences**).
 
@@ -60,22 +62,14 @@ Before you begin please **Remember**:
 2.  Click on the tab that says “**Cite**”.
 3.  Then, click the tab that says "**Word Processors**"
 4.  Click the button the says “**Install Microsoft Word Add-in**” (or "Install Microsoft Word Plugin")
-
     <img src="images/act-1/4-add-plugin.png" alt="install add-in" style="width:720px;">
-    
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
       <img src="images/act-1/4-add-plugin.gif" alt="add plugin" style="width:720px;">
       </div>
-
-    
-
 5.  **Restart WORD & Zotero**
-
-    **Congratulations!** You should now have a Zotero tab in Microsoft Word that looks like this:
-    
+    **Congratulations!** You should now have a Zotero tab in Microsoft Word that looks like this:    
     <img src="images/act-1/4-example.png" alt="final Zotero tab" style="width:720px;">
-
  <script>  
 
     function toggle(input) {
@@ -87,6 +81,5 @@ Before you begin please **Remember**:
         }
     }
 </script>
-
 
 [NEXT STEP: Adding Your First Citations & Collections to Zotero](act-2.html){: .btn .btn-blue }
