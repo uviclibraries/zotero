@@ -10,14 +10,23 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 <img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:240px;">
 
-In this exercise you will:
-- Add the browser connector so you can automatically download source information from websites
-- Install the Word plugin so you can add citations to your papers
+In this exercise, you will:
+
+1. Download & install the Zotero app from Zotero.org
+2. Download & install the Zotero Browser Connector
+3. Download & install the Microsoft Word/LibreOffice Add-i
 
 If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
-1.  Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
-2.  If you are using **Chrome**, you will be directed to the Chrome Web Store. Add the plugin here.
+Before you begin please **Remember**:
+- **Zotero** is a program that resides on your computer that may or may not sync to the web depending on your preferences
+- In order to capture sources from the web with the click of a button, you must install a **browser connector**
+- In order to easily insert citations and create bibliographies, double-check the the **Word or Google Docs Add-in** has been installed
+
+
+1.Downloading Zotero:
+   - Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
+3.  If you are using **Chrome**, you will be directed to the Chrome Web Store. Add the plugin here.
     
     <img src="images/act-1/2-plugin.png" alt="zotero in app store" style="width:720px;">
     
