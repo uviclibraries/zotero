@@ -23,6 +23,7 @@ Before you begin please **Remember**:
 1. Downloading Zotero:
    - Navigate to the Zotero downloads page: [https://www.zotero.org/download/](https://www.zotero.org/download/){:target="_blank"}
    - Click **Download** under “Zotero for Mac/Windows”
+   <img src="images/act-1/zotero-download.png" alt="Zotero Download web page & button" style="width:8000px;">
    - Save the file to your disk
    - Double-click on the Zotero  file you just downloaded and follow the installation instructions
    - Congratulations! You’ve downloaded and installed Zotero on  your computer!
