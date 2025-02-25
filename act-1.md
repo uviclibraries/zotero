@@ -10,11 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 <img src="images/act-1/1-icon.png" alt="icons" style="float:right;width:240px;">
 
-In this exercise, you will:
-
-1. Download & install the Zotero app from Zotero.org
-2. Download & install the Zotero Browser Connector
-3. Download & install the Microsoft Word/LibreOffice Add-in
+In this exercise, you will download & install the Zotero app from Zotero.org, the Zotero Browser Connector, and the Microsoft Word/LibreOffice Add-in.
 
 If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
