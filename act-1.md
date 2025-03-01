@@ -43,10 +43,9 @@ If you have any questions or get stuck as you work through this, please ask your
 <img src="images/act-1/3-example.png" alt="toolbar" style="width:800px;">
 If you are using **Google Docs**, the browser connector will also add Zotero functionality to your documents.
 
-## Double-check the Zotero Word and Google Docs Plugins
-
+## Double-check the Word Process Add-in has been Installed
 1.  In Zotero, go to the **Preferences** Menu (on a Mac: **Zotero -> Preferences**; on a PC: **Edit -> Preferences**).
-
+ 
     <img src="images/act-1/3-final.png" alt="preference menu" style="width:720px;">
 
 2.  Click on the tab that says “**Cite**”.
